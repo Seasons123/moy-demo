@@ -1,4 +1,3 @@
-"# moy-demo" 
 一.moy是什么
 moy 是基于模型框架 kero 和 UI 框架 neoui 实现的应用框架，是一种前端集成解决方案，为企业级应用开发而生。
 github地址：https://github.com/iuap-design/tinper-moy
